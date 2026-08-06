@@ -1,4 +1,4 @@
-  # ATM-AND-BANKING-SYSTEM
+<img width="578" height="750" alt="Communication" src="https://github.com/user-attachments/assets/6aa9b16a-e3a1-4b2f-aac0-bd028e675865" />  # ATM-AND-BANKING-SYSTEM
 # Reg No:
 # Name:
 # Date:
@@ -48,7 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-[Use Case.pdf](https://github.com/user-attachments/files/30769379/Use.Case.pdf)
+<img width="582" height="753" alt="Use case" src="https://github.com/user-attachments/assets/21955ace-43ad-41ed-b877-4457b68d858e" />
 
 
 
@@ -69,6 +69,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="391" height="497" alt="Class" src="https://github.com/user-attachments/assets/30349922-6f10-499f-8f13-0b9c6e864da0" />
 
 
 
@@ -77,6 +78,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="578" height="750" alt="Communication" src="https://github.com/user-attachments/assets/885867f3-8bd1-4a19-a981-d3dc3267a369" />
 
 
 
